@@ -182,9 +182,44 @@ body {
   font-weight: 500;
   text-transform: uppercase;
   transition: all .3s;
+  width: 70%;
 }
 
 .main-button-yellow a:hover {
+  opacity: 0.9;
+}
+
+.main-button-green a {
+  font-size: 13px;
+  color: #fff;
+  background-color: #21b619;
+  padding: 12px 30px;
+  display: inline-block;
+  border-radius: 22px;
+  font-weight: 500;
+  text-transform: uppercase;
+  transition: all .3s;
+  width: 70%;
+}
+
+.main-button-green a:hover {
+  opacity: 0.9;
+}
+
+.main-button-blue a {
+  font-size: 13px;
+  color: #fff;
+  background-color: #2597f5;
+  padding: 12px 30px;
+  display: inline-block;
+  border-radius: 22px;
+  font-weight: 500;
+  text-transform: uppercase;
+  transition: all .3s;
+  width: 70%;
+}
+
+.main-button-blue a:hover {
   opacity: 0.9;
 }
 
